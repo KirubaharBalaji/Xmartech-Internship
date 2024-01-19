@@ -14,13 +14,12 @@ def crawl_html(url):
         return None
 
 
-target_url = "https://byteoverflow.com/tag/northvolt/"
+target_url = 'https://atozserver.com'
+sitemap_xml=crawl_html(f"{target_url}/sitemap.xml")
 result = crawl_html(target_url)
+
 html=result.prettify()
 text=result.get_text("\n",True)
-#print(html)
-#tit=result.find(property="og:title")
-#print(tit)
 pg_title=result.title.string
 write_to_file("text.txt",text)
 write_to_file("texthtml.txt",html)

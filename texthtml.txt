@@ -1,1027 +1,664 @@
 <!DOCTYPE html>
-<html class="no-js" lang="en-US">
+<html lang="en">
  <head>
   <meta charset="utf-8"/>
-  <link href="https://gmpg.org/xfn/11" rel="profile"/>
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
-  <script>
-   (function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);
-  </script>
-  <meta content="noindex, nofollow" name="robots">
+  <meta content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" name="viewport"/>
+  <meta content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1" name="robots">
+   <!-- This site is optimized with the Yoast SEO plugin v21.6 - https://yoast.com/wordpress/plugins/seo/ -->
    <title>
-    #Northvolt Archives - Byte Overflow
+    AtoZServer | Your Website Our Responsibility
    </title>
-   <meta content="en_US" property="og:locale"/>
-   <meta content="article" property="og:type"/>
-   <meta content="#Northvolt Archives - Byte Overflow" property="og:title"/>
-   <meta content="https://byteoverflow.com/tag/northvolt/" property="og:url"/>
-   <meta content="Byte Overflow" property="og:site_name"/>
-   <meta content="summary_large_image" name="twitter:card"/>
-   <script class="yoast-schema-graph" type="application/ld+json">
-    {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://byteoverflow.com/#website","url":"https://byteoverflow.com/","name":"Byte Overflow","description":"For Code Geeks","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://byteoverflow.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://byteoverflow.com/tag/northvolt/#webpage","url":"https://byteoverflow.com/tag/northvolt/","name":"#Northvolt Archives - Byte Overflow","isPartOf":{"@id":"https://byteoverflow.com/#website"},"breadcrumb":{"@id":"https://byteoverflow.com/tag/northvolt/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://byteoverflow.com/tag/northvolt/"]}]},{"@type":"BreadcrumbList","@id":"https://byteoverflow.com/tag/northvolt/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://byteoverflow.com/"},{"@type":"ListItem","position":2,"name":"#Northvolt"}]}]}
-   </script>
-   <link href="//fonts.googleapis.com" rel="dns-prefetch"/>
-   <link href="https://byteoverflow.com/feed/" rel="alternate" title="Byte Overflow » Feed" type="application/rss+xml"/>
-   <link href="https://byteoverflow.com/comments/feed/" rel="alternate" title="Byte Overflow » Comments Feed" type="application/rss+xml"/>
-   <link href="https://byteoverflow.com/tag/northvolt/feed/" rel="alternate" title="Byte Overflow » #Northvolt Tag Feed" type="application/rss+xml"/>
-   <link href="https://byteoverflow.com/web-stories/feed/" rel="alternate" title="Byte Overflow » Stories Feed" type="application/rss+xml"/>
-   <script type="text/javascript">
-    window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/byteoverflow.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.3"}};
+   <meta content="High Quality Web Hosting, Exciting Web Hosting Deels. High Performance Dedicated Servers." name="description">
+    <link href="https://atozserver.com/" rel="canonical"/>
+    <meta content="en_US" property="og:locale"/>
+    <meta content="website" property="og:type"/>
+    <meta content="AtoZServer | Your Website Our Responsibility" property="og:title"/>
+    <meta content="High Quality Web Hosting, Exciting Web Hosting Deels. High Performance Dedicated Servers." property="og:description"/>
+    <meta content="https://atozserver.com/" property="og:url"/>
+    <meta content="AtoZServer" property="og:site_name"/>
+    <meta content="https://www.facebook.com/AtoZserver" property="article:publisher"/>
+    <meta content="2021-01-03T07:28:55+00:00" property="article:modified_time"/>
+    <meta content="summary_large_image" name="twitter:card"/>
+    <script class="yoast-schema-graph" type="application/ld+json">
+     {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://atozserver.com/","url":"https://atozserver.com/","name":"AtoZServer | Your Website Our Responsibility","isPartOf":{"@id":"https://atozserver.com/#website"},"about":{"@id":"https://atozserver.com/#organization"},"datePublished":"2020-12-18T14:18:49+00:00","dateModified":"2021-01-03T07:28:55+00:00","description":"High Quality Web Hosting, Exciting Web Hosting Deels. High Performance Dedicated Servers.","breadcrumb":{"@id":"https://atozserver.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://atozserver.com/"]}]},{"@type":"BreadcrumbList","@id":"https://atozserver.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://atozserver.com/#website","url":"https://atozserver.com/","name":"AtoZServer","description":"Your Website, Our Responciblity","publisher":{"@id":"https://atozserver.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://atozserver.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://atozserver.com/#organization","name":"AtoZserver","url":"https://atozserver.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://atozserver.com/#/schema/logo/image/","url":"https://atozserver.com/wp-content/uploads/2020/12/main-logo.png","contentUrl":"https://atozserver.com/wp-content/uploads/2020/12/main-logo.png","width":853,"height":192,"caption":"AtoZserver"},"image":{"@id":"https://atozserver.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/AtoZserver"]}]}
+    </script>
+    <!-- / Yoast SEO plugin. -->
+    <script type="text/javascript">
+     /* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/atozserver.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.4.2"}};
 /*! This file is auto-generated */
-!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
-   </script>
-   <style type="text/css">
-    img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 0.07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-   </style>
-   <link href="https://byteoverflow.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.3" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css">
-    <style id="wp-block-library-theme-inline-css" type="text/css">
-     .wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-audio{margin:0 0 1em}.wp-block-code{border:1px solid #ccc;border-radius:4px;font-family:Menlo,Consolas,monaco,monospace;padding:.8em 1em}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.wp-block-embed{margin:0 0 1em}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-image{margin:0 0 1em}.wp-block-pullquote{border-bottom:4px solid;border-top:4px solid;color:currentColor;margin-bottom:1.75em}.wp-block-pullquote cite,.wp-block-pullquote footer,.wp-block-pullquote__citation{color:currentColor;font-size:.8125em;font-style:normal;text-transform:uppercase}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;font-style:normal;position:relative}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large,.wp-block-quote.is-style-plain{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-search__button{border:1px solid #ccc;padding:.375em .625em}:where(.wp-block-group.has-background){padding:1.25em 2.375em}.wp-block-separator.has-css-opacity{opacity:.4}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto}.wp-block-separator.has-alpha-channel-opacity{opacity:1}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table{margin:0 0 1em}.wp-block-table td,.wp-block-table th{word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video{margin:0 0 1em}.wp-block-template-part.has-background{margin-bottom:0;margin-top:0;padding:1.25em 2.375em}
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+    </script>
+    <style id="wp-emoji-styles-inline-css" type="text/css">
+     img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
     </style>
-    <link href="https://byteoverflow.com/wp-includes/css/classic-themes.min.css?ver=6.2.3" id="classic-theme-styles-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://atozserver.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+    <style id="classic-theme-styles-inline-css" type="text/css">
+     /*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+    </style>
     <style id="global-styles-inline-css" type="text/css">
-     body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--yellow: #edbd27;--wp--preset--color--dark-gray: #232323;--wp--preset--color--light-gray: #f7f7f7;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 12px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 16px;--wp--preset--font-size--x-large: 42px;--wp--preset--font-size--normal: 13px;--wp--preset--font-size--huge: 23px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+     body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
 .wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
-:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
     </style>
-    <link href="https://byteoverflow.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.3.2" id="contact-form-7-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/bootstrap.min.css?ver=3.3.5" id="bootstrap-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/font-awesome.min.css?ver=5.10.1" id="font-awesome-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/owl.carousel.css?ver=2.3.4" id="owl-carousel-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/animate.min.css?ver=3.6.0" id="owl-transitions-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/magnific-popup.css?ver=1.7" id="magnific-popup-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/style.css?ver=6.2.3" id="paperio-parent-style-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="//fonts.googleapis.com/css?family=Open+Sans%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%7CMontserrat%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese&amp;display=swap" id="paperio-google-font-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio-child-theme/style.css?ver=1.7" id="paperio-style-css" media="all" rel="stylesheet" type="text/css"/>
-    <link href="https://byteoverflow.com/wp-content/themes/paperio/assets/css/responsive.css?ver=1.7" id="paperio-responsive-style-css" media="all" rel="stylesheet" type="text/css"/>
-    <style id="paperio-responsive-style-inline-css" type="text/css">
-     .theme-custom-color blockquote.blog-image:before,.theme-custom-color .owl-slider-style-4 .banner-content::before,.theme-custom-color .content-area p a,.theme-custom-color .social-icon-fa,.theme-custom-color .arrow-pagination .owl-prev:hover,.theme-custom-color .arrow-pagination .owl-next:hover,.theme-custom-color .sidebar-style3 h5 span::before,.theme-custom-color .breadcrumb-style-1 .breadcrumb > li > a:focus,.theme-custom-color .pagination-style-1 .pagination > li > a:hover,.theme-custom-color .pagination-style-1 .pagination > li > span:focus,.theme-custom-color .pagination-style-1 .pagination > li > span:hover,.theme-custom-color .breadcrumb-style-1 .breadcrumb li a:hover,.theme-custom-color .separator:after,.theme-custom-color .separator:before,.theme-custom-color .breadcrumb-style-1 .breadcrumb > li > a:focus,.theme-custom-color .pagination-style-1 .pagination > li > a:hover,.theme-custom-color .pagination-style-1 .pagination > li > span:focus,.theme-custom-color .pagination-style-1 .pagination > li > span:hover,.theme-custom-color .owl-next-prev-arrow-style3 .owl-nav button.owl-prev:hover,.theme-custom-color .owl-next-prev-arrow-style3 .owl-nav button.owl-next:hover,.theme-custom-color .header-main .navbar-nav > li a.dropdown-toggle:after,.theme-custom-color .header-main .paperio-default-menu > li a:after,.theme-custom-color .text-color,.theme-custom-color .sidebar-style1 .follow-box li a,.theme-custom-color .about-three-box i,.theme-custom-color .about-content-box span {color:#007e34}.theme-custom-color .sidebar-style3 .follow-box li a:hover,.theme-custom-color .page-title-small h2::before,.theme-custom-color .sidebar-style2 .follow-box li a:hover,.theme-custom-color .owl-next-prev-arrow-style4 .owl-buttons div:hover,.theme-custom-color .background-color,.theme-custom-color .owl-next-prev-arrow-style1 .owl-nav button:hover,.theme-custom-color .btn-color,.theme-custom-color .right-separator::before,.theme-custom-color .sidebar-style4 .follow-box li a:hover,.bypostauthor.post-comment .comment-avtar span{background:#007e34;}.theme-custom-color .blog-listing-style7:hover .banner-content,.theme-custom-color .promo-area-style2 .promo-border p:before,.theme-custom-color .sidebar-style3 .follow-box li a:hover,.theme-custom-color .owl-next-prev-arrow-style1 .owl-nav button,.theme-custom-color .owl-next-prev-arrow-style4 .owl-buttons div:hover{border-color:#007e34;}.theme-custom-color .header-border,.theme-custom-color .title-border-right::after,.theme-custom-color .title-border-center span:before,.theme-custom-color .title-border-center span:after,.theme-custom-color .border-footer{border-color:rgba(0,126,52,0.2);}.theme-custom-color a:hover,.theme-custom-color a:focus,.theme-custom-color .header-main .nav > li:hover > a,.theme-custom-color .header-main .nav > li > a:focus,.theme-custom-color .nav > li > a:hover,.theme-custom-color .header-style-2 .navbar-nav > li a.dropdown-toggle:after,.theme-custom-color .breadcrumb-style-1 .breadcrumb li a:hover,.theme-custom-color .text-link-light-gray:hover,.theme-custom-color .text-link-white:hover,.theme-custom-color .widget_categories li ul.children li a:hover,.theme-custom-color .widget_categories li ul.children li a:focus{color:#007e34;}body{font-family:Open Sans,sans-serif;}.alt-font,.mfp-title,h1,h2,h3,h4,h5,h6,.breadcrumb-style-1 .breadcrumb li,.site-footer .tagcloud a,#success,.paperio-default-menu li{font-family:Montserrat,sans-serif;}.navbar-default .navbar-nav li a{text-transform:uppercase;}body.paperio-theme-option{background-color:#f5f5f5;}.footer-bg{background-color:#070808;}.footer-border{border-color:#222325;}.site-footer .widget-title{color:#ffffff;}
+    <link href="https://atozserver.com/wp-content/themes/atozserver/assets/lib/fontawsome/css/all.min.css" id="fontawsome-css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/css/bootstrap.min.css" id="bootstrap-css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/css/mdb.min.css" id="mdb-css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://atozserver.com/wp-content/themes/atozserver/assets/css/style.css?asdas" id="theme-main-css-css" media="all" rel="stylesheet" type="text/css"/>
+    <link href="https://atozserver.com/wp-content/themes/atozserver/assets/css/do-not-touch.css" id="do-not-touch-css-css" media="all" rel="stylesheet" type="text/css"/>
+    <script id="jquery-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/js/jquery.min.js" type="text/javascript">
+    </script>
+    <link href="https://atozserver.com/wp-json/" rel="https://api.w.org/"/>
+    <link href="https://atozserver.com/wp-json/wp/v2/pages/5" rel="alternate" type="application/json"/>
+    <link href="https://atozserver.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+    <meta content="WordPress 6.4.2" name="generator"/>
+    <link href="https://atozserver.com/" rel="shortlink"/>
+    <link href="https://atozserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatozserver.com%2F" rel="alternate" type="application/json+oembed"/>
+    <link href="https://atozserver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fatozserver.com%2F&amp;format=xml" rel="alternate" type="text/xml+oembed"/>
+    <link href="https://atozserver.com/wp-content/uploads/2021/02/cropped-main-logo-2-1-32x32.png" rel="icon" sizes="32x32"/>
+    <link href="https://atozserver.com/wp-content/uploads/2021/02/cropped-main-logo-2-1-192x192.png" rel="icon" sizes="192x192"/>
+    <link href="https://atozserver.com/wp-content/uploads/2021/02/cropped-main-logo-2-1-180x180.png" rel="apple-touch-icon"/>
+    <meta content="https://atozserver.com/wp-content/uploads/2021/02/cropped-main-logo-2-1-270x270.png" name="msapplication-TileImage"/>
+    <style id="wp-custom-css" type="text/css">
+     .home-product{
+	background-color: #232323;
+}
     </style>
-    <script id="jquery-core-js" src="https://byteoverflow.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4" type="text/javascript">
-    </script>
-    <script id="jquery-migrate-js" src="https://byteoverflow.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0" type="text/javascript">
-    </script>
-    <!--[if lt IE 9]>
-<script type='text/javascript' src='https://byteoverflow.com/wp-content/themes/paperio/assets/js/html5shiv.min.js?ver=3.7.3' id='paperio-html5-js'></script>
-<![endif]-->
-    <script id="instafeed-js" src="https://byteoverflow.com/wp-content/plugins/paperio-addons/js/instafeed.min.js?ver=1.9.3" type="text/javascript">
-    </script>
-    <link href="https://byteoverflow.com/wp-json/" rel="https://api.w.org/"/>
-    <link href="https://byteoverflow.com/wp-json/wp/v2/tags/376" rel="alternate" type="application/json"/>
-    <link href="https://byteoverflow.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
-    <link href="https://byteoverflow.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
-    <meta content="WordPress 6.2.3" name="generator"/>
-    <link href="https://byteoverflow.com/wp-content/uploads/2021/01/byteoverflow-icon2-81x81.png" rel="icon" sizes="32x32"/>
-    <link href="https://byteoverflow.com/wp-content/uploads/2021/01/byteoverflow-icon2.png" rel="icon" sizes="192x192"/>
-    <link href="https://byteoverflow.com/wp-content/uploads/2021/01/byteoverflow-icon2.png" rel="apple-touch-icon"/>
-    <meta content="https://byteoverflow.com/wp-content/uploads/2021/01/byteoverflow-icon2.png" name="msapplication-TileImage"/>
-   </link>
+    <!-- <link rel="prefetch" href="https://atozserver.com/cloud-vps">
+    <link rel="prefetch" href="https://atozserver.com/">
+    <link rel="prefetch" href="https://atozserver.com/clientarea/">
+    <link rel="prefetch" href="https://atozserver.com/amd-dedicated-servers">
+    <link rel="prefetch" href="https://atozserver.com/shared-hosting">
+    <link rel="prefetch" href="https://atozserver.com/litespeed-cloud-hosting"> -->
+    <!-- <link rel="prerender" href="https://atozserver.com/cloud-vps">
+    <link rel="prerender" href="https://atozserver.com/clientarea/">
+    <link rel="prerender" href="https://atozserver.com/amd-dedicated-servers">
+    <link rel="prerender" href="https://atozserver.com/shared-hosting">
+    <link rel="prerender" href="https://atozserver.com/litespeed-cloud-hosting"> -->
+   </meta>
   </meta>
  </head>
- <body class="archive tag tag-northvolt tag-376 wp-embed-responsive theme-custom-color paperio-theme-option paperio-latest-font-awesome" data-rsssl="1" itemscope="itemscope" itemtype="http://schema.org/WebPage">
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-dark-grayscale">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0 0.49803921568627" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 0.49803921568627" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0 0.49803921568627" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-grayscale">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0 1" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 1" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0 1" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-purple-yellow">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0.54901960784314 0.98823529411765" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 1" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0.71764705882353 0.25490196078431" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-blue-red">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0 1" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 0.27843137254902" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0.5921568627451 0.27843137254902" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-midnight">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0 0" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 0.64705882352941" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0 1" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-magenta-yellow">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0.78039215686275 1" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 0.94901960784314" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0.35294117647059 0.47058823529412" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-purple-green">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0.65098039215686 0.40392156862745" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 1" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0.44705882352941 0.4" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <svg focusable="false" height="0" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;" viewbox="0 0 0 0" width="0" xmlns="http://www.w3.org/2000/svg">
-   <defs>
-    <filter id="wp-duotone-blue-orange">
-     <fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 ">
-     </fecolormatrix>
-     <fecomponenttransfer color-interpolation-filters="sRGB">
-      <fefuncr tablevalues="0.098039215686275 1" type="table">
-      </fefuncr>
-      <fefuncg tablevalues="0 0.66274509803922" type="table">
-      </fefuncg>
-      <fefuncb tablevalues="0.84705882352941 0.41960784313725" type="table">
-      </fefuncb>
-      <fefunca tablevalues="1 1" type="table">
-      </fefunca>
-     </fecomponenttransfer>
-     <fecomposite in2="SourceGraphic" operator="in">
-     </fecomposite>
-    </filter>
-   </defs>
-  </svg>
-  <header class="site-header bg-white header-style-2 navbar-fixed-top header-img navbar-bottom" id="masthead" itemscope="itemscope" itemtype="http://schema.org/WPHeader">
-   <div class="header-logo">
-    <div class="container">
-     <div class="row">
-      <div class="col-md-4 col-sm-4 col-xs-6 social-icon">
-       <a href="#" target="_self">
-        <i class="fab fa-facebook-f">
+ <body class="home page-template-default page page-id-5">
+  <header class="custom-header">
+   <div class="float-left custom-show-on-small-only">
+    <a class="custom-sidebar-trigger" href="#">
+     <i class="fas fa-bars">
+     </i>
+    </a>
+   </div>
+   <div class="float-right custom-show-on-small-only">
+    <a href="/clientarea/">
+     <i class="far fa-user">
+     </i>
+    </a>
+   </div>
+   <div class="float-right custom-show-on-small-only">
+    <a href="/clientarea/cart.php?a=view">
+     <i class="fas fa-shopping-cart">
+     </i>
+    </a>
+   </div>
+   <nav class="custom-nav-bar container">
+    <div class="custom-logo-container">
+     <a href="/">
+      <img src="https://atozserver.com/wp-content/themes/atozserver/assets/images/main-logo.svg"/>
+     </a>
+    </div>
+    <div class="custom-hide-on-small custom-nav-menu">
+     <div class="custom-nav-menu-item has-dropdown">
+      <div class="custom-dropdown-container">
+       <a href="javascript:void(0)">
+        <i class="fas fa-cloud">
+        </i>
+        Hosting
+        <i class="fa fa-angle-down rotate-icon">
         </i>
        </a>
-       <a href="#" target="_self">
-        <i class="fab fa-twitter">
-        </i>
-       </a>
-       <a href="#" target="_self">
-        <i class="fab fa-google-plus-g">
-        </i>
-       </a>
-       <a href="#" target="_self">
-        <i class="fab fa-linkedin-in">
-        </i>
-       </a>
-       <a href="#" target="_self">
-        <i class="fab fa-instagram">
-        </i>
-       </a>
-       <a href="#" target="_self">
-        <i class="fab fa-pinterest-p">
-        </i>
-       </a>
+       <div class="custom-dropdown-content">
+        <a href="/ssd-web-hosting">
+         SSD Web Hosting
+        </a>
+        <a href="/dmca-ignored-shared-hosting/">
+         DMCA Ignored Hosting
+        </a>
+        <!-- <a href="/free-web-hosting/">Free Web Hosting</a> -->
+        <!-- <a href="/litespeed-cloud-hosting">LiteSpeed Cloud Hosting</a> -->
+       </div>
       </div>
-      <div class="col-md-4 text-center no-padding">
-       <div class="logo">
-        <a href="https://byteoverflow.com/" itemprop="url" rel="home">
-         <img alt="Byte Overflow" class="logo-light" data-no-lazy="1" src="https://byteoverflow.com/wp-content/uploads/2021/01/byte-overflowlogo2.png"/>
-         <img alt="Byte Overflow" class="retina-logo-light" data-no-lazy="1" src="https://byteoverflow.com/wp-content/uploads/2021/01/byte-overflowlogo2.png"/>
-         <img alt="Byte Overflow" class="logo-dark" data-no-lazy="1" src="https://byteoverflow.com/wp-content/uploads/2021/01/byte-overflowlogo2.png"/>
-         <img alt="Byte Overflow" class="retina-logo-dark" data-no-lazy="1" src="https://byteoverflow.com/wp-content/uploads/2021/01/byte-overflowlogo2.png"/>
+     </div>
+     <div class="custom-nav-menu-item has-dropdown">
+      <div class="custom-dropdown-container">
+       <a href="javascript:void(0)">
+        <i class="fas fa-server">
+        </i>
+        Servers
+        <i class="fa fa-angle-down rotate-icon">
+        </i>
+       </a>
+       <div class="custom-dropdown-content">
+        <a href="/cloud-vps">
+         Cloud VPS
+        </a>
+        <a href="/offshore-vps-servers">
+         Offshore VPS Servers
+        </a>
+        <!-- <a href="">AMD Dedicated Servers</a> -->
+       </div>
+      </div>
+     </div>
+     <div class="custom-nav-menu-item has-dropdown">
+      <div class="custom-dropdown-container">
+       <a href="javascript:void(0)">
+        Domain
+        <i class="fa fa-angle-down rotate-icon">
+        </i>
+       </a>
+       <div class="custom-dropdown-content">
+        <a href="https://atozserver.com/clientarea/cart.php?a=add&amp;domain=register">
+         Register
+        </a>
+        <a href="https://atozserver.com/clientarea/cart.php?a=add&amp;domain=transfer">
+         Transfer Domain To Us
         </a>
        </div>
       </div>
-      <div class="col-md-4 col-sm-4 col-xs-6 fl-right search-box">
-       <form action="https://byteoverflow.com/" class="search-form navbar-form no-padding" method="get" role="search">
-        <div class="input-group add-on">
-         <input aria-label="Search" class="search-field form-control" name="s" placeholder="Search Here...." type="search" value=""/>
-         <div class="input-group-btn">
-          <button class="btn btn-default" type="submit">
-           <span class="screen-reader-text">
-            Search
-           </span>
-           <i class="fas fa-search">
-           </i>
-          </button>
-         </div>
-        </div>
-       </form>
+     </div>
+     <!-- <div class="custom-nav-menu-item has-dropdown">
+                <div class="custom-dropdown-container">
+                    <a href="/offers"><i class="fas fa-percentage"></i> Offers </a>
+
+                </div>
+            </div> -->
+    </div>
+    <div class="custom-hide-on-small custom-nav-menu float-right">
+     <div class="custom-nav-menu-item">
+      <a href="/clientarea/">
+       Client Area
+      </a>
+     </div>
+     <div class="custom-nav-menu-item has-dropdown">
+      <div class="custom-dropdown-container">
+       <a href="javascript:void(0)">
+        USD
+        <i class="fa fa-angle-down rotate-icon">
+        </i>
+       </a>
+       <div class="custom-dropdown-content" style="font-size: 16px; min-width: 108.33px;">
+        <a href="?cur=inr">
+         <i class="far fa-check-circle">
+         </i>
+         INR (₹)
+        </a>
+        <a href="?cur=usd">
+         <i class="fas fa-check-circle">
+         </i>
+         USD ($)
+        </a>
+       </div>
       </div>
      </div>
-    </div>
-   </div>
-   <nav class="navbar navbar-default navbar-static-top background-color white-link-nav no-margin-top sm-bg-transparent" id="site-navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
-    <div class="container">
-     <div class="row">
-      <div class="col-md-12 col-sm-12 col-xs-12">
-       <div class="navbar-header">
-        <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse" type="button">
-         <span class="screen-reader-text">
-          Toggle navigation
-         </span>
-         <span class="icon-bar">
-         </span>
-         <span class="icon-bar">
-         </span>
-         <span class="icon-bar">
-         </span>
-        </button>
-       </div>
-       <div class="menu-main-menu-container navbar-collapse collapse alt-font">
-        <ul class="nav navbar-nav navbar-white paperio-default-menu" id="menu-main-menu">
-         <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-49" id="menu-item-49">
-          <a href="https://byteoverflow.com/">
-           HOME
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1007" id="menu-item-1007">
-          <a href="https://byteoverflow.com/category/gadget/">
-           Gadget
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1008" id="menu-item-1008">
-          <a href="https://byteoverflow.com/category/mobile/">
-           Mobile
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1009" id="menu-item-1009">
-          <a href="https://byteoverflow.com/category/apps/">
-           Apps
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1010" id="menu-item-1010">
-          <a href="https://byteoverflow.com/category/technology/">
-           Technology
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1011" id="menu-item-1011">
-          <a href="https://byteoverflow.com/category/latest-updates/">
-           Latest Updates
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-1012" id="menu-item-1012">
-          <a href="https://byteoverflow.com/category/tech-language/">
-           Tech Language
-          </a>
-         </li>
-         <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2563" id="menu-item-2563">
-          <a href="https://byteoverflow.com/write-for-us/">
-           Write For Us
-          </a>
-         </li>
-        </ul>
-       </div>
-      </div>
+     <div class="custom-nav-menu-item">
+      <a href="/clientarea/cart.php?a=view">
+       <i class="fas fa-shopping-cart">
+       </i>
+      </a>
      </div>
     </div>
    </nav>
   </header>
-  <div class="below-navigation clear-both">
+  <div class="custom-overlay">
+   <div class="custom-sidebar">
+    <!-- <a href="#">Link 1</a>
+        <a href="#">Link 4</a> -->
+    <a class="custom-accordion" href="#">
+     <i class="fas fa-cloud">
+     </i>
+     Hosting
+     <i class="float-right fas fa-chevron-down">
+     </i>
+    </a>
+    <div>
+     <a href="/shared-hosting">
+      Shared Hosting
+     </a>
+     <a href="/dmca-ignored-shared-hosting/">
+      DMCA Ignored Hosting
+     </a>
+     <!-- –– <a href="/litespeed-cloud-hosting"-->
+     LiteSpeed Cloud Hosting
+     ––&gt;
+    </div>
+    <a class="custom-accordion" href="#">
+     <i class="fas fa-server">
+     </i>
+     Servers
+     <i class="float-right fas fa-chevron-down">
+     </i>
+    </a>
+    <div>
+     <a href="/cloud-vps">
+      Cloud VPS
+     </a>
+     <a href="/amd-dedicated-servers">
+      AMD Dedicated Servers
+     </a>
+    </div>
+    <div class="text-center px-4 mt-4">
+     <a class="btn float-left" href="?cur=inr">
+      <i class="far fa-check-circle">
+      </i>
+      INR
+     </a>
+     <a class="btn float-right" href="?cur=usd">
+      <i class="fas fa-check-circle">
+      </i>
+      USD
+     </a>
+    </div>
+   </div>
   </div>
-  <section class="page-title-small border-bottom-mid-gray border-top-mid-gray blog-single-page-background bg-gray">
-   <div class="container-fluid">
-    <div class="row">
-     <div class="col-md-12 col-sm-12 col-xs-12 text-center">
-      <span class="text-extra-small text-uppercase alt-font right-separator blog-single-page-meta">
-       Browsing Tags
-      </span>
-      <h1 class="title-small position-reletive font-weight-600 text-uppercase text-mid-gray blog-headline right-separator blog-single-page-title no-margin-bottom">
-       #Northvolt
-      </h1>
-     </div>
-    </div>
-   </div>
-  </section>
-  <section class="paperio-breadcrumb-navigation">
-   <div class="container">
-    <div class="row">
-     <div class="col-md-12 col-sm-12 col-xs-12">
-      <ul class="text-extra-small text-uppercase alt-font paperio-breadcrumb-settings" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-       <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-        <a class="text-link-light-gray" href="https://byteoverflow.com/" itemprop="item" title="Browse to: Home">
-         <span itemprop="name">
-          Home
-         </span>
-        </a>
-        <meta content="1" itemprop="position"/>
-       </li>
-       <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-        <span itemprop="name">
-         #Northvolt
-        </span>
-        <meta content="2" itemprop="position"/>
-       </li>
-      </ul>
-     </div>
-    </div>
-   </div>
-  </section>
-  <div class="post-content-area">
-   <section class="margin-five-top margin-five-bottom sm-margin-eight-top sm-margin-eight-bottom xs-margin-twelve-top xs-margin-twelve-bottom" id="content">
+  <main class="container-bg">
+   <section class="secondary-bg white-text py-5">
     <div class="container">
-     <div class="row">
-      <div class="col-md-9 col-sm-8 col-xs-12 padding-right-35 sm-padding-right-15 sm-margin-six-bottom xs-margin-five-bottom">
-       <div class="row old-new-pagination post-grid-two-columns" data-column="2">
-        <div class="first-post post-1856 post type-post status-publish format-standard has-post-thumbnail hentry category-technology tag-northvolt col-md-6 col-sm-6 col-xs-12 margin-six-bottom xs-margin-ten-bottom paperio-post-clear" id="post-1856">
-         <div class="blog-image">
-          <a href="https://byteoverflow.com/northvolt-stora-enso-to-develop-batteries-from-forestry-byproduct-lignin-details/">
-           <img alt="" class="attachment-full size-full wp-post-image" decoding="async" height="1350" sizes="(max-width: 2400px) 100vw, 2400px" src="https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023.jpg" srcset="https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023.jpg 2400w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-300x169.jpg 300w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-1024x576.jpg 1024w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-768x432.jpg 768w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-1536x864.jpg 1536w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-2048x1152.jpg 2048w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-1200x675.jpg 1200w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-420x236.jpg 420w, https://byteoverflow.com/wp-content/uploads/2022/07/b287d987-17e1-44dc-b59b-9241e135c023-81x46.jpg 81w" width="2400"/>
-          </a>
-         </div>
-         <div class="blog-details">
-          <h2 class="alt-font font-weight-600 title-small text-mid-gray margin-six-top no-margin-lr xs-no-margin-bottom entry-title archive-layout-title no-margin-bottom">
-           <a href="https://byteoverflow.com/northvolt-stora-enso-to-develop-batteries-from-forestry-byproduct-lignin-details/" rel="bookmark">
-            Northvolt, Stora Enso to Develop Batteries From Forestry Byproduct Lignin: Details
-           </a>
-          </h2>
-          <div class="letter-spacing-1 text-extra-small text-uppercase margin-five-bottom display-inline-block archive-layout-meta">
-           <ul class="post-meta-box meta-box-style2">
-            <li>
-             <a class="text-link-light-gray archive-layout-meta-link" href="https://byteoverflow.com/category/technology/" rel="category tag">
-              Technology
-             </a>
-            </li>
-            <li class="published">
-             27 July 2022
-            </li>
-           </ul>
-          </div>
-          <time class="updated display-none" datetime="2022-07-27T08:05:47+01:00">
-           27 July 2022
-          </time>
-          <div class="margin-six-bottom xs-margin-eight-bottom entry-summary">
-           Volkswagen has been investing hundreds of millions of dollars in Northvolt to secure battery supply for its electric vehicles. Swedish battery maker Northvolt and Finnish-Swedish forestry company Stora Enso are trying to develop batteries...
-          </div>
-          <div class="blog-meta text-uppercase">
-           <a class="btn btn-very-small text-uppercase alt-font archive-button no-letter-spacing btn-border" href="https://byteoverflow.com/northvolt-stora-enso-to-develop-batteries-from-forestry-byproduct-lignin-details/">
-            Read More
-            <i class="fas fa-long-arrow-alt-right">
-            </i>
-           </a>
-           <ul class="fl-right blog-listing-comment archive-blog-listing-comment">
-            <li>
-             <a class="comment archive-layout-comment-link" href="https://byteoverflow.com/northvolt-stora-enso-to-develop-batteries-from-forestry-byproduct-lignin-details/#respond">
-              <i class="far fa-comment">
-              </i>
-              <span>
-               No Comment
-              </span>
-             </a>
-            </li>
-            <li>
-             <a class="sl-button text-link-black archive-layout-comment-link sl-button-1856" data-iscomment="0" data-nonce="57018dc9f7" data-post-id="1856" href="https://byteoverflow.com/wp-admin/admin-ajax.php?action=process_simple_like&amp;nonce=57018dc9f7&amp;post_id=1856&amp;disabled=true&amp;is_comment=0" title="Like">
-              <i class="far fa-heart">
-              </i>
-              <span>
-               3
-              </span>
-             </a>
-            </li>
-           </ul>
-          </div>
-         </div>
-        </div>
-       </div>
-       <div class="page-separator-parent display-none">
-        <div class="col-md-12 col-sm-12 col-xs-12 margin-seven-bottom sm-display-none page-separator">
-         <div class="separator-line-wide background-color">
-         </div>
-        </div>
+     <h2 class="text-center pb-4">
+      Browse Through Our Products
+     </h2>
+     <div class="row text-center">
+      <div class="col-md-6 py-3 px-3 white-text">
+       <div class="home-product">
+        <a class="h3" href="/shared-hosting/">
+         Shared hosting
+        </a>
+        <br/>
+        <a href="/shared-hosting/">
+         Free .com, .in Domain Included
+        </a>
        </div>
       </div>
-      <div class="col-md-3 col-sm-4 col-xs-12 sidebar sidebar-style3" id="secondary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar" role="complementary">
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_paperio_about_widget" id="paperio_about_widget-2">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          About Me
-         </span>
-        </h5>
-        <div class="about-me-wrapper">
-         <div class="margin-eight-bottom sm-margin-three-bottom">
-          <a href="#">
-           <img alt="About Me" src="https://byteoverflow.com/wp-content/uploads/2021/01/code-geek.png"/>
-          </a>
-         </div>
-         <span class="text-extra-small text-uppercase text-mid-gray text-uppercase font-weight-600">
-          <a href="#">
-           Kent Beck
-          </a>
-         </span>
-         <div class="about-small-text">
-          <p class="text-small padding-four-top xs-padding-two-top no-margin-bottom">
-           Make it work, make it right, make it fast.
-          </p>
-         </div>
-        </div>
+      <div class="col-md-6 py-3 px-3">
+       <div class="home-product">
+        <a class="h3" href="/dmca-ignored-shared-hosting/">
+         Offshore Hosting
+        </a>
+        <br/>
+        <a href="/dmca-ignored-shared-hosting/">
+         Offshore Hosting with less content restractions.
+        </a>
        </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_paperio_follow_us_widget" id="paperio_follow_us_widget-4">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Follow Us
-         </span>
-        </h5>
-        <ul class="follow-box inline-block">
-         <li>
-          <a href="#" target="_blank">
-           <i class="fab fa-facebook-f">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_blank">
-           <i class="fab fa-twitter">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_blank">
-           <i class="fab fa-google-plus-g">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_blank">
-           <i class="fas fa-heart">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_blank">
-           <i class="fab fa-pinterest-p">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_blank">
-           <i class="fab fa-instagram">
-           </i>
-          </a>
-         </li>
-        </ul>
+      </div>
+      <div class="col-md-6 py-3 px-3">
+       <div class="home-product">
+        <a class="h3" href="/cloud-vps">
+         NVME VPS Server
+        </a>
+        <br/>
+        <a href="/cloud-vps">
+         1Gbps Port With NVME SSD
+        </a>
        </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_mc4wp_form_widget" id="mc4wp_form_widget-2">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Newsletter
-         </span>
-        </h5>
-       </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_categories" id="categories-3">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Categories
-         </span>
-        </h5>
-        <ul>
-         <li class="cat-item cat-item-153">
-          <a href="https://byteoverflow.com/category/apps/">
-           Apps
-          </a>
-          <span>
-           (41)
-          </span>
-         </li>
-         <li class="cat-item cat-item-151">
-          <a href="https://byteoverflow.com/category/gadget/">
-           Gadget
-          </a>
-          <span>
-           (28)
-          </span>
-         </li>
-         <li class="cat-item cat-item-155">
-          <a href="https://byteoverflow.com/category/latest-updates/">
-           Latest Updates
-          </a>
-          <span>
-           (3)
-          </span>
-         </li>
-         <li class="cat-item cat-item-152">
-          <a href="https://byteoverflow.com/category/mobile/">
-           Mobile
-          </a>
-          <span>
-           (169)
-          </span>
-         </li>
-         <li class="cat-item cat-item-154">
-          <a href="https://byteoverflow.com/category/technology/">
-           Technology
-          </a>
-          <span>
-           (242)
-          </span>
-         </li>
-         <li class="cat-item cat-item-1">
-          <a href="https://byteoverflow.com/category/uncategorised/">
-           Uncategorised
-          </a>
-          <span>
-           (19)
-          </span>
-         </li>
-        </ul>
-       </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_paperio_popular_post_widget" id="paperio_popular_post_widget-2">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Popular Post
-         </span>
-        </h5>
-        <div class="popular-post-wrapper">
-         <div class="col-sm-12 col-xs-12 text-extra-small no-padding-lr blog-list margin-bottom-15 sm-margin-three-bottom xs-margin-three-bottom first-post">
-          <div class="blog-thumbnail fl-left">
-           <a href="https://byteoverflow.com/warm-water-headed-towards-east-antarctic-ice-sheet-might-accelerate-global-sea-level-rise/">
-            <img alt="" class="attachment-paperio-popular-posts-thumb size-paperio-popular-posts-thumb wp-post-image" decoding="async" height="46" loading="lazy" sizes="(max-width: 81px) 100vw, 81px" src="https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f-81x46.jpg" srcset="https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f-81x46.jpg 81w, https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f-300x169.jpg 300w, https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f-768x432.jpg 768w, https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f-420x236.jpg 420w, https://byteoverflow.com/wp-content/uploads/2022/08/thumbs_b_c_bb647010c765441c857e1934c17a217f.jpg 864w" width="81"/>
-           </a>
-          </div>
-          <div class="blog-con">
-           <p class="text-uppercase margin-three-bottom">
-            <a href="https://byteoverflow.com/warm-water-headed-towards-east-antarctic-ice-sheet-might-accelerate-global-sea-level-rise/">
-             Warm Water Headed Towards East Antarctic Ice Sheet Might Accelerate Global Sea-Level Rise
-            </a>
-           </p>
-           <span>
-            05 August 2022
-           </span>
-          </div>
-         </div>
-         <div class="col-sm-12 col-xs-12 text-extra-small no-padding-lr blog-list margin-bottom-15 sm-margin-three-bottom xs-margin-three-bottom">
-          <div class="blog-thumbnail fl-left">
-           <a href="https://byteoverflow.com/tinder-swipes-left-on-metaverse-funding-digital-token-plans-amid-disappointing-earnings/">
-            <img alt="" class="attachment-paperio-popular-posts-thumb size-paperio-popular-posts-thumb wp-post-image" decoding="async" height="54" loading="lazy" sizes="(max-width: 81px) 100vw, 81px" src="https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L-81x54.jpg" srcset="https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L-81x54.jpg 81w, https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L-300x200.jpg 300w, https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L-768x512.jpg 768w, https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L-420x280.jpg 420w, https://byteoverflow.com/wp-content/uploads/2022/08/moved_LYNXMPEI720P7_L.jpg 800w" width="81"/>
-           </a>
-          </div>
-          <div class="blog-con">
-           <p class="text-uppercase margin-three-bottom">
-            <a href="https://byteoverflow.com/tinder-swipes-left-on-metaverse-funding-digital-token-plans-amid-disappointing-earnings/">
-             Tinder Swipes Left on Metaverse Funding, Digital Token Plans Amid Disappointing Earnings
-            </a>
-           </p>
-           <span>
-            05 August 2022
-           </span>
-          </div>
-         </div>
-         <div class="col-sm-12 col-xs-12 text-extra-small no-padding-lr blog-list margin-bottom-15 sm-margin-three-bottom xs-margin-three-bottom">
-          <div class="blog-thumbnail fl-left">
-           <a href="https://byteoverflow.com/lucy-back-on-its-solar-powered-journey-to-jupiter-trojans-after-nasa-team-troubleshoots-spacecraft/">
-            <img alt="" class="attachment-paperio-popular-posts-thumb size-paperio-popular-posts-thumb wp-post-image" decoding="async" height="45" loading="lazy" sizes="(max-width: 81px) 100vw, 81px" src="https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-81x45.jpeg" srcset="https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-81x45.jpeg 81w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-300x168.jpeg 300w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-1024x573.jpeg 1024w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-768x430.jpeg 768w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-1200x671.jpeg 1200w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium-420x235.jpeg 420w, https://byteoverflow.com/wp-content/uploads/2022/08/lucy_solar_deploy_masthead.jpg.pc-adaptive.full_.medium.jpeg 1280w" width="81"/>
-           </a>
-          </div>
-          <div class="blog-con">
-           <p class="text-uppercase margin-three-bottom">
-            <a href="https://byteoverflow.com/lucy-back-on-its-solar-powered-journey-to-jupiter-trojans-after-nasa-team-troubleshoots-spacecraft/">
-             Lucy Back on Its Solar-Powered Journey to Jupiter Trojans After NASA Team Troubleshoots Spacecraft
-            </a>
-           </p>
-           <span>
-            05 August 2022
-           </span>
-          </div>
-         </div>
-         <div class="col-sm-12 col-xs-12 text-extra-small no-padding-lr blog-list last-post">
-          <div class="blog-thumbnail fl-left">
-           <a href="https://byteoverflow.com/perseids-meteor-shower-to-occur-in-august-could-be-outshined-by-full-moon-all-you-need-to-know/">
-            <img alt="" class="attachment-paperio-popular-posts-thumb size-paperio-popular-posts-thumb wp-post-image" decoding="async" height="61" loading="lazy" sizes="(max-width: 81px) 100vw, 81px" src="https://byteoverflow.com/wp-content/uploads/2022/08/perseid_meteor_shower_2009_nasa_jpl_thumb_1659608704646-81x61.jpg" srcset="https://byteoverflow.com/wp-content/uploads/2022/08/perseid_meteor_shower_2009_nasa_jpl_thumb_1659608704646-81x61.jpg 81w, https://byteoverflow.com/wp-content/uploads/2022/08/perseid_meteor_shower_2009_nasa_jpl_thumb_1659608704646-300x225.jpg 300w, https://byteoverflow.com/wp-content/uploads/2022/08/perseid_meteor_shower_2009_nasa_jpl_thumb_1659608704646.jpg 320w" width="81"/>
-           </a>
-          </div>
-          <div class="blog-con">
-           <p class="text-uppercase margin-three-bottom">
-            <a href="https://byteoverflow.com/perseids-meteor-shower-to-occur-in-august-could-be-outshined-by-full-moon-all-you-need-to-know/">
-             Perseids Meteor Shower to Occur in August Could Be Outshined by Full Moon: All You Need to Know
-            </a>
-           </p>
-           <span>
-            05 August 2022
-           </span>
-          </div>
-         </div>
-        </div>
-       </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_tag_cloud" id="tag_cloud-4">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Tag Cloud
-         </span>
-        </h5>
-        <div class="tagcloud">
-         <a aria-label="#5 (4 items)" class="tag-cloud-link tag-link-221 tag-link-position-1" href="https://byteoverflow.com/tag/5/" style="font-size: 22pt;">
-          #5
-         </a>
-         <a aria-label="#Amazon #Subscription #Services #Grow #10 #Percent #YoY (1 item)" class="tag-cloud-link tag-link-429 tag-link-position-2" href="https://byteoverflow.com/tag/amazon-subscription-services-grow-10-percent-yoy/" style="font-size: 8pt;">
-          #Amazon #Subscription #Services #Grow #10 #Percent #YoY
-         </a>
-         <a aria-label="#Apple (1 item)" class="tag-cloud-link tag-link-427 tag-link-position-3" href="https://byteoverflow.com/tag/apple/" style="font-size: 8pt;">
-          #Apple
-         </a>
-         <a aria-label="#Battlegrounds #Mobile #India #(BGMI) #Said #to #Be #Blocked #in #India #Using #Section #69A #of #IT #Act (1 item)" class="tag-cloud-link tag-link-430 tag-link-position-4" href="https://byteoverflow.com/tag/battlegrounds-mobile-india-bgmi-said-to-be-blocked-in-india-using-section-69a-of-it-act/" style="font-size: 8pt;">
-          #Battlegrounds #Mobile #India #(BGMI) #Said #to #Be #Blocked #in #India #Using #Section #69A #of #IT #Act
-         </a>
-         <a aria-label="#Bitcoin #Moves #Towards #$24 (1 item)" class="tag-cloud-link tag-link-428 tag-link-position-5" href="https://byteoverflow.com/tag/bitcoin-moves-towards-24/" style="font-size: 8pt;">
-          #Bitcoin #Moves #Towards #$24
-         </a>
-         <a aria-label="#BTC (3 items)" class="tag-cloud-link tag-link-385 tag-link-position-6" href="https://byteoverflow.com/tag/btc/" style="font-size: 18.5pt;">
-          #BTC
-         </a>
-         <a aria-label="#ETH #Add #More #Gains #to #Heightened #Values (1 item)" class="tag-cloud-link tag-link-404 tag-link-position-7" href="https://byteoverflow.com/tag/eth-add-more-gains-to-heightened-values/" style="font-size: 8pt;">
-          #ETH #Add #More #Gains #to #Heightened #Values
-         </a>
-         <a aria-label="#Ethereum’s #‘Merge’ #Upgrade #Gears #Up #for #Final #Testnet #Check #Starting #August #4 (1 item)" class="tag-cloud-link tag-link-411 tag-link-position-8" href="https://byteoverflow.com/tag/ethereums-merge-upgrade-gears-up-for-final-testnet-check-starting-august-4/" style="font-size: 8pt;">
-          #Ethereum’s #‘Merge’ #Upgrade #Gears #Up #for #Final #Testnet #Check #Starting #August #4
-         </a>
-         <a aria-label="#Google (2 items)" class="tag-cloud-link tag-link-175 tag-link-position-9" href="https://byteoverflow.com/tag/google/" style="font-size: 14.3pt;">
-          #Google
-         </a>
-         <a aria-label="#Google #Maps #Adds #Aerial #Views #of #Landmarks (1 item)" class="tag-cloud-link tag-link-398 tag-link-position-10" href="https://byteoverflow.com/tag/google-maps-adds-aerial-views-of-landmarks/" style="font-size: 8pt;">
-          #Google #Maps #Adds #Aerial #Views #of #Landmarks
-         </a>
-         <a aria-label="#Google #Pixel #6a (1 item)" class="tag-cloud-link tag-link-401 tag-link-position-11" href="https://byteoverflow.com/tag/google-pixel-6a/" style="font-size: 8pt;">
-          #Google #Pixel #6a
-         </a>
-         <a aria-label="#Huawei #Enjoy #50 #Pro #With #Snapdragon #680 #SoC (1 item)" class="tag-cloud-link tag-link-406 tag-link-position-12" href="https://byteoverflow.com/tag/huawei-enjoy-50-pro-with-snapdragon-680-soc/" style="font-size: 8pt;">
-          #Huawei #Enjoy #50 #Pro #With #Snapdragon #680 #SoC
-         </a>
-         <a aria-label="#Infinix #Smart #6 #Plus #India #Launch #Date #Set #for #July #29: #Expected #Price (1 item)" class="tag-cloud-link tag-link-392 tag-link-position-13" href="https://byteoverflow.com/tag/infinix-smart-6-plus-india-launch-date-set-for-july-29-expected-price/" style="font-size: 8pt;">
-          #Infinix #Smart #6 #Plus #India #Launch #Date #Set #for #July #29: #Expected #Price
-         </a>
-         <a aria-label="#iPad (2 items)" class="tag-cloud-link tag-link-224 tag-link-position-14" href="https://byteoverflow.com/tag/ipad/" style="font-size: 14.3pt;">
-          #iPad
-         </a>
-         <a aria-label="#iQoo #9T #5G #Price #in #India (1 item)" class="tag-cloud-link tag-link-412 tag-link-position-15" href="https://byteoverflow.com/tag/iqoo-9t-5g-price-in-india/" style="font-size: 8pt;">
-          #iQoo #9T #5G #Price #in #India
-         </a>
-         <a aria-label="#Location #Sharing #Notifications (1 item)" class="tag-cloud-link tag-link-399 tag-link-position-16" href="https://byteoverflow.com/tag/location-sharing-notifications/" style="font-size: 8pt;">
-          #Location #Sharing #Notifications
-         </a>
-         <a aria-label="#MediaTek #Helio #G25 #SoC #Launched #in #India: #Price (1 item)" class="tag-cloud-link tag-link-403 tag-link-position-17" href="https://byteoverflow.com/tag/mediatek-helio-g25-soc-launched-in-india-price/" style="font-size: 8pt;">
-          #MediaTek #Helio #G25 #SoC #Launched #in #India: #Price
-         </a>
-         <a aria-label="#Microsoft #Detects (1 item)" class="tag-cloud-link tag-link-408 tag-link-position-18" href="https://byteoverflow.com/tag/microsoft-detects/" style="font-size: 8pt;">
-          #Microsoft #Detects
-         </a>
-         <a aria-label="#Patches #Zero-Day #Exploit #Used #to #Target #European (1 item)" class="tag-cloud-link tag-link-407 tag-link-position-19" href="https://byteoverflow.com/tag/patches-zero-day-exploit-used-to-target-european/" style="font-size: 8pt;">
-          #Patches #Zero-Day #Exploit #Used #to #Target #European
-         </a>
-         <a aria-label="#Pixel #Buds #Pro #to #Go #on #Sale #for #First #Time #in #India #Today: #Price (1 item)" class="tag-cloud-link tag-link-400 tag-link-position-20" href="https://byteoverflow.com/tag/pixel-buds-pro-to-go-on-sale-for-first-time-in-india-today-price/" style="font-size: 8pt;">
-          #Pixel #Buds #Pro #to #Go #on #Sale #for #First #Time #in #India #Today: #Price
-         </a>
-         <a aria-label="#Realme #Q5 #Carnival #Edition #With #Snapdragon #695 #SoC (1 item)" class="tag-cloud-link tag-link-396 tag-link-position-21" href="https://byteoverflow.com/tag/realme-q5-carnival-edition-with-snapdragon-695-soc/" style="font-size: 8pt;">
-          #Realme #Q5 #Carnival #Edition #With #Snapdragon #695 #SoC
-         </a>
-         <a aria-label="#Redmi #10A #Sport #With #6GB #of #RAM (1 item)" class="tag-cloud-link tag-link-402 tag-link-position-22" href="https://byteoverflow.com/tag/redmi-10a-sport-with-6gb-of-ram/" style="font-size: 8pt;">
-          #Redmi #10A #Sport #With #6GB #of #RAM
-         </a>
-         <a aria-label="#Redmi #11 #Prime #5G #Listed #on #Xiaomi #Security #Update #Schedule (1 item)" class="tag-cloud-link tag-link-409 tag-link-position-23" href="https://byteoverflow.com/tag/redmi-11-prime-5g-listed-on-xiaomi-security-update-schedule/" style="font-size: 8pt;">
-          #Redmi #11 #Prime #5G #Listed #on #Xiaomi #Security #Update #Schedule
-         </a>
-         <a aria-label="#Redmi #K50S #Pro #200-Megapixel #Sensor (1 item)" class="tag-cloud-link tag-link-394 tag-link-position-24" href="https://byteoverflow.com/tag/redmi-k50s-pro-200-megapixel-sensor/" style="font-size: 8pt;">
-          #Redmi #K50S #Pro #200-Megapixel #Sensor
-         </a>
-         <a aria-label="#Samsung (1 item)" class="tag-cloud-link tag-link-415 tag-link-position-25" href="https://byteoverflow.com/tag/samsung-2/" style="font-size: 8pt;">
-          #Samsung
-         </a>
-         <a aria-label="#Samsung #Galaxy #Z #Fold #4 (2 items)" class="tag-cloud-link tag-link-440 tag-link-position-26" href="https://byteoverflow.com/tag/samsung-galaxy-z-fold-4/" style="font-size: 14.3pt;">
-          #Samsung #Galaxy #Z #Fold #4
-         </a>
-         <a aria-label="#Samsung #Warns #of #Weaker #Chip #Demand #for #Phones (1 item)" class="tag-cloud-link tag-link-405 tag-link-position-27" href="https://byteoverflow.com/tag/samsung-warns-of-weaker-chip-demand-for-phones/" style="font-size: 8pt;">
-          #Samsung #Warns #of #Weaker #Chip #Demand #for #Phones
-         </a>
-         <a aria-label="#Snapdragon #8+ #Gen #1 #Tipped #Again (1 item)" class="tag-cloud-link tag-link-393 tag-link-position-28" href="https://byteoverflow.com/tag/snapdragon-8-gen-1-tipped-again/" style="font-size: 8pt;">
-          #Snapdragon #8+ #Gen #1 #Tipped #Again
-         </a>
-         <a aria-label="#SpaceX's #Starlink #Satellite #Internet #Service #May #Soon #by #Accessible #by #Phones (1 item)" class="tag-cloud-link tag-link-410 tag-link-position-29" href="https://byteoverflow.com/tag/spacexs-starlink-satellite-internet-service-may-soon-by-accessible-by-phones/" style="font-size: 8pt;">
-          #SpaceX's #Starlink #Satellite #Internet #Service #May #Soon #by #Accessible #by #Phones
-         </a>
-         <a aria-label="#Specifications (4 items)" class="tag-cloud-link tag-link-187 tag-link-position-30" href="https://byteoverflow.com/tag/specifications/" style="font-size: 22pt;">
-          #Specifications
-         </a>
-         <a aria-label="#Spotify #Premium #Subscribers #Grow #to #188 #Million #in #Q2 (1 item)" class="tag-cloud-link tag-link-397 tag-link-position-31" href="https://byteoverflow.com/tag/spotify-premium-subscribers-grow-to-188-million-in-q2/" style="font-size: 8pt;">
-          #Spotify #Premium #Subscribers #Grow #to #188 #Million #in #Q2
-         </a>
-         <a aria-label="#Tata #Motors #Announces #Sixth #Straight #Quarterly #Loss #Amid #Chip #Shortage (1 item)" class="tag-cloud-link tag-link-413 tag-link-position-32" href="https://byteoverflow.com/tag/tata-motors-announces-sixth-straight-quarterly-loss-amid-chip-shortage/" style="font-size: 8pt;">
-          #Tata #Motors #Announces #Sixth #Straight #Quarterly #Loss #Amid #Chip #Shortage
-         </a>
-         <a aria-label="000mAh #Battery (2 items)" class="tag-cloud-link tag-link-251 tag-link-position-33" href="https://byteoverflow.com/tag/000mah-battery/" style="font-size: 14.3pt;">
-          000mAh #Battery
-         </a>
-         <a aria-label="000mAh #Battery #Launched #in #India: #Price (2 items)" class="tag-cloud-link tag-link-220 tag-link-position-34" href="https://byteoverflow.com/tag/000mah-battery-launched-in-india-price/" style="font-size: 14.3pt;">
-          000mAh #Battery #Launched #in #India: #Price
-         </a>
-         <a aria-label="000mAh #Battery #Launched: #Price (1 item)" class="tag-cloud-link tag-link-395 tag-link-position-35" href="https://byteoverflow.com/tag/000mah-battery-launched-price/" style="font-size: 8pt;">
-          000mAh #Battery #Launched: #Price
-         </a>
-         <a aria-label="All (2 items)" class="tag-cloud-link tag-link-97 tag-link-position-36" href="https://byteoverflow.com/tag/all/" style="font-size: 14.3pt;">
-          All
-         </a>
-         <a aria-label="digital marketing (2 items)" class="tag-cloud-link tag-link-109 tag-link-position-37" href="https://byteoverflow.com/tag/digital-marketing/" style="font-size: 14.3pt;">
-          digital marketing
-         </a>
-         <a aria-label="Galaxy (2 items)" class="tag-cloud-link tag-link-91 tag-link-position-38" href="https://byteoverflow.com/tag/galaxy/" style="font-size: 14.3pt;">
-          Galaxy
-         </a>
-         <a aria-label="marketing (2 items)" class="tag-cloud-link tag-link-102 tag-link-position-39" href="https://byteoverflow.com/tag/marketing/" style="font-size: 14.3pt;">
-          marketing
-         </a>
-         <a aria-label="need (2 items)" class="tag-cloud-link tag-link-100 tag-link-position-40" href="https://byteoverflow.com/tag/need/" style="font-size: 14.3pt;">
-          need
-         </a>
-         <a aria-label="on (2 items)" class="tag-cloud-link tag-link-118 tag-link-position-41" href="https://byteoverflow.com/tag/on/" style="font-size: 14.3pt;">
-          on
-         </a>
-         <a aria-label="S22 (2 items)" class="tag-cloud-link tag-link-93 tag-link-position-42" href="https://byteoverflow.com/tag/s22/" style="font-size: 14.3pt;">
-          S22
-         </a>
-         <a aria-label="to (2 items)" class="tag-cloud-link tag-link-101 tag-link-position-43" href="https://byteoverflow.com/tag/to/" style="font-size: 14.3pt;">
-          to
-         </a>
-         <a aria-label="Why (2 items)" class="tag-cloud-link tag-link-99 tag-link-position-44" href="https://byteoverflow.com/tag/why/" style="font-size: 14.3pt;">
-          Why
-         </a>
-         <a aria-label="you (2 items)" class="tag-cloud-link tag-link-103 tag-link-position-45" href="https://byteoverflow.com/tag/you/" style="font-size: 14.3pt;">
-          you
-         </a>
-        </div>
-       </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_paperio_favourite_quotes_widget" id="paperio_favourite_quotes_widget-2">
-        <h5 class="widget-title font-weight-600 text-mid-gray text-uppercase title-border-right no-background margin-ten-bottom">
-         <span>
-          Favourite Quotes
-         </span>
-        </h5>
-        <div class="favorite-quotes-box">
-         <i class="fas fa-quote-left text-color fl-left">
-         </i>
-         <div class="quote padding-left-twenty-2">
-          <p class="comment text-gray text-large margin-six-bottom sm-margin-one-bottom font-weight-300">
-           My favorite things in life don't cost any money. It's really clear that the most precious resource we all have is time.
-          </p>
-          <span class="text-uppercase text-extra-small text-mid-gray">
-           - STEVE JOBS
-          </span>
-         </div>
-        </div>
-       </div>
-       <div class="widget col-md-12 col-sm-12 col-xs-12 margin-sixteen-bottom xs-margin-ten-bottom bg-white widget_paperio_ads_widget" id="paperio_ads_widget-2">
-        <div class="ads-wrapper">
-         <a href="#">
-          <img alt="Ads Banner" src="https://wpdemos.themezaa.com/paperio/demo-images/2016/06/800X533-ph.jpg"/>
-         </a>
-        </div>
+      </div>
+      <div class="col-md-6 py-3 px-3">
+       <div class="home-product">
+        <a class="h3" href="/amd-dedicated-servers">
+         AMD Dedicated Server
+        </a>
+        <br/>
+        <a href="/amd-dedicated-servers">
+         Extreme Performance at affordable
+        </a>
        </div>
       </div>
      </div>
     </div>
    </section>
-  </div>
-  <section class="border-footer site-footer bg-white" id="colophon" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
-   <div class="container-fluid footer-bg">
-    <div class="row">
-     <div class="container no-padding padding-four-top margin-three-bottom sm-margin-two-bottom">
-      <div class="col-md-4 col-sm-12 col-xs-12 sm-margin-top-30 footer-three-sidebar xs-no-margin-top">
-       <div class="widget widget_paperio_about_widget" id="paperio_about_widget-3">
-        <h6 class="widget-title text-mid-gray text-uppercase font-weight-600 margin-bottom-25">
-         About Us
-        </h6>
-        <div class="separator-line-two background-color width-50px margin-bottom-25">
-        </div>
-        <div class="about-me-wrapper">
-         <div class="margin-eight-bottom sm-margin-three-bottom">
-          <a href="#">
-           <img alt="About Me" src="https://byteoverflow.com/wp-content/uploads/2021/01/byte-overflowlogo2.png"/>
-          </a>
-         </div>
-         <div class="about-small-text">
-          Get updated with us team
-          <b>
-           byteoverflow.com
-          </b>
-          . You can depend on our team of experts around the globe for news, analysis, advice, and fun and information about technology. We promise to tell you what's new in the parts of modern tech and how to get the most out of them.
-         </div>
-        </div>
-       </div>
+   <section class="container py-5">
+    <h2 class="text-center">
+     Find the perfect domain name
+    </h2>
+    <p class="text-center grey-text">
+     Every online business starts with a domain name. So make it significent.
+    </p>
+    <form action="/clientarea/cart.php?a=add&amp;domain=register" method="post">
+     <div class="input-group md-form form-sm form-1 pl-0">
+      <input aria-label="Search" class="my-0 px-4 fs-4 browser-default" id="domain-input" name="query" placeholder="Enter Domain name" type="text"/>
+      <button class="input-group-prepend grey btn btn-flat m-0 domain-search-btn" disabled="" id="domain-submit-btn">
+       <i aria-hidden="true" class="fas fa-search text-white fa-2x">
+       </i>
+      </button>
+     </div>
+    </form>
+   </section>
+   <script>
+    $("#domain-input").on("input", function() {
+    var text = $("#domain-input").val()
+    if(text) {
+        $("#domain-submit-btn").addClass("primary-bg")
+        $('#domain-submit-btn').prop('disabled', false);
+    } else {
+        $("#domain-submit-btn").removeClass("primary-bg")
+        $('#domain-submit-btn').prop('disabled', true);
+    }
+})
+   </script>
+   <section class="secondary-bg white-text" id="offer">
+    <div class="container py-4">
+     <div class="row">
+      <div class="col">
+       <h2 class="h3">
+        Offer! Get Unlimited Web Hosting
+       </h2>
+       <span>
+        Only at ₹399/yr
+       </span>
       </div>
-      <div class="col-md-4 col-sm-12 col-xs-12 sm-margin-top-30 footer-three-sidebar">
-       <div class="widget widget_paperio_twitter_widget" id="paperio_twitter_widget-2">
-        <h6 class="widget-title text-mid-gray text-uppercase font-weight-600 margin-bottom-25">
-         Important Links
-        </h6>
-        <div class="separator-line-two background-color width-50px margin-bottom-25">
-        </div>
-        <strong>
-         Please fill all widget settings!
-        </strong>
-       </div>
-      </div>
-      <div class="col-md-4 col-sm-12 col-xs-12 sm-margin-top-30 footer-three-sidebar">
-       <div class="widget widget_paperio_instagram_widget" id="paperio_instagram_widget-9">
-        <h6 class="widget-title text-mid-gray text-uppercase font-weight-600 margin-bottom-25">
-         Instagram
-        </h6>
-        <div class="separator-line-two background-color width-50px margin-bottom-25">
-        </div>
-        <div class="text-center instagram-widget-wrapper">
-         <div class="owl-carousels instagram-grid-style">
-          <div class="paperio-instagram-feed owl-carousel width-100 display-inline-block" id="paperio-paperio_instagram_widget-9">
-          </div>
-         </div>
-         <script type="text/javascript">
-          var paperio_instagram_widget_9 = new Instafeed({ get: 'user', userId: 3907141248,accessToken: '3907141248.1677ed0.d25a6e3b075a46aa8594fd276ae90a74',limit: '12',sortBy: 'none',resolution: 'low_resolution', target: 'paperio-paperio_instagram_widget-9', after: function () {  var images = $('#paperio_instagram_widget-9').find('a');
-	$.each(images, function (index, image) { var delay = (index * 75) + 'ms'; $(image).css('-webkit-animation-delay', delay); $(image).css('-moz-animation-delay', delay); $(image).css('-ms-animation-delay', delay); $(image).css('-o-animation-delay', delay); $(image).css('animation-delay', delay); $(image).addClass('animated flipInX'); }); }, template: '<div class="col-md-3 col-sm-3 col-xs-6 no-padding"><a href="{{link}}" target="_blank"><img src="{{image}}" /><div class="likes"><i class="fas fa-heart"></i> {{likes}}</div></a></div>'});
-         </script>
-        </div>
-       </div>
+      <div class="col d-flex justify-content-end">
+       <button class="btn primary-bg btn-round btn-small font-weight-bold">
+        Buy Now
+       </button>
       </div>
      </div>
     </div>
-    <div class="row footer-border border-top-mid-gray margin-two-top">
-     <div class="container padding-two-top padding-two-bottom no-padding-lr">
-      <div class="col-md-6 col-sm-12 col-xs-12 sm-text-center sm-no-padding-top sm-margin-two-bottom">
-       <div class="text-uppercase text-extra-small letter-spacing-1">
-        <div class="widget widget_text">
-         <div class="textwidget">
-          © 2021 BYTEOVERFLOW IS PROUDLY MANAGED BY
-          <a class="text-link-light-gray" href="https://xmartech.in/" rel="noopener" target="_blank">
-           XMARTECH
-          </a>
-         </div>
-        </div>
-       </div>
+   </section>
+   <section class="container my-5" id="features">
+    <div class="row d-flex align-items-start mb-3">
+     <div class="col-sm-12 col-md-6 col-lg-3">
+      <h2 class="h4 pb-3 font-weight-bold">
+       The Cloud Experience
+      </h2>
+      <p class="card-text">
+       AtoZServer helps your business to succeed. Just have a look at the three most important reasons you should trust AtoZServer. There are many other reasons. as well.
+      </p>
+      <button class="btn secondary-bg h6 btn-rounded btn-primary text-light font-weight-bold">
+       Learn More
+      </button>
+     </div>
+     <div class="col-sm-12 col-md-6 col-lg-3">
+      <div class="d-flex justify-content-center pb-3">
+       <img alt="" src="https://atozserver.com/wp-content/themes/atozserver/assets/images/icons/thums-up.svg" width="120px"/>
       </div>
-      <div class="col-md-6 col-sm-12 col-xs-12">
-       <div class="social-link social-link-style">
-        <ul class="social-icon-no-text">
-         <li>
-          <a href="#" target="_self">
-           <i class="fab fa-facebook-f social-icon-fa">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_self">
-           <i class="fab fa-linkedin-in social-icon-fa">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_self">
-           <i class="fab fa-instagram social-icon-fa">
-           </i>
-          </a>
-         </li>
-         <li>
-          <a href="#" target="_self">
-           <i class="fab fa-pinterest-p social-icon-fa">
-           </i>
-          </a>
-         </li>
-        </ul>
+      <h3 class="text-center h5 font-weight-bold">
+       99.9% Uptime
+      </h3>
+      <p class="text-center grey-text">
+       We built this hosting platform for those who needs serious Performance and Uptime.
+      </p>
+     </div>
+     <div class="col-sm-12 col-md-6 col-lg-3">
+      <div class="d-flex justify-content-center pb-3">
+       <img alt="" src="https://atozserver.com/wp-content/themes/atozserver/assets/images/icons/support.svg" width="120px"/>
+      </div>
+      <h3 class="text-center h5 font-weight-bold">
+       Priority Support
+      </h3>
+      <p class="text-center grey-text">
+       Our expert, Admin-level Support team are online Providing fast and seamless support whenever you need.
+      </p>
+     </div>
+     <div class="col-sm-12 col-md-6 col-lg-3">
+      <div class="d-flex justify-content-center pb-3">
+       <img alt="" src="https://atozserver.com/wp-content/themes/atozserver/assets/images/icons/thunder.svg" width="120px"/>
+      </div>
+      <h3 class="text-center h5 font-weight-bold">
+       Super Fast Servers
+      </h3>
+      <p class="text-center grey-text">
+       Our development team built this hosting platform for Performance and uptime. You can't go wrong with it.
+      </p>
+     </div>
+    </div>
+   </section>
+   <section class="secondary-bg white-text" id="help-needed-banner">
+    <div class="container py-4">
+     <div class="row">
+      <div class="col">
+       <h2 class="h3">
+        Stuck Somewhere? Need help?
+       </h2>
+       <span>
+        Call: +91-887-887-0188
+       </span>
+       <br/>
+       <span>
+        Email: contact@atozserver.com
+       </span>
+      </div>
+      <div class="col d-flex justify-content-end">
+       <a class="d-flex align-items-center" href="https://wa.me/918878870188">
+        <button class="btn primary-bg btn-dark btn-round btn-small font-weight-bold" target="_blank">
+         WhatsApp
+        </button>
+       </a>
+      </div>
+     </div>
+    </div>
+   </section>
+  </main>
+  <footer class="page-footer unique-color-dark" id="footer">
+   <div class="container text-center text-md-left pt-4">
+    <div class="row mt-3">
+     <!--First column-->
+     <div class="col-md-6 col-lg-3 mb-4">
+      <h6 class="text-uppercase font-weight-bold">
+       <strong>
+        Hosting
+       </strong>
+      </h6>
+      <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"/>
+      <p>
+       <a href="/shared-hosting/" id="footer-link-faq">
+        Shared Hosting
+       </a>
+      </p>
+      <p>
+       <a href="/cloud-vps" id="footer-link-browsers">
+        VPS Servers
+       </a>
+      </p>
+      <p>
+       <a href="/amd-dedicated-servers" id="footer-link-license">
+        Dedicated Server
+       </a>
+      </p>
+      <p>
+       <a href="#" id="footer-link-changelog">
+        Gaming Server
+       </a>
+      </p>
+     </div>
+     <!--/.First column-->
+     <!--Second column-->
+     <div class="col-md-6 col-lg-3 mx-auto mb-4">
+      <h6 class="text-uppercase font-weight-bold">
+       <strong>
+        Support
+       </strong>
+      </h6>
+      <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"/>
+      <p>
+       <a href="/clientarea/" id="footer-link-jquery">
+        Client Area
+       </a>
+      </p>
+      <p>
+       <a href="https://dash.atozserver.com/submitticket.php" id="footer-link-angular">
+        Open Ticket
+       </a>
+      </p>
+      <p>
+       <a href="#" id="footer-link-react">
+        Contact Us
+       </a>
+      </p>
+      <p>
+       <a href="/blog/" id="footer-link-brandflow">
+        Blog
+       </a>
+      </p>
+     </div>
+     <!--/.Second column-->
+     <!--Third column-->
+     <div class="col-md-6 col-lg-3 mx-auto mb-4">
+      <h6 class="text-uppercase font-weight-bold">
+       <strong>
+        Company
+       </strong>
+      </h6>
+      <hr class="info-color mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;"/>
+      <p>
+       <a href="/about" id="footer-link-tutBootstrap">
+        About Us
+       </a>
+      </p>
+      <p>
+       <a href="/terms-of-use" id="footer-link-tutBootstrap">
+        Trams of use
+       </a>
+      </p>
+      <p>
+       <a href="/privacy-policy" id="footer-link-tutAngular">
+        Privacy Policy
+       </a>
+      </p>
+      <p>
+       <a href="#" id="footer-link-tutAngular">
+        FAQ
+       </a>
+      </p>
+     </div>
+     <!--/.Third column-->
+     <!--Fourth column-->
+     <div class="col-md-6 col-lg-3">
+      <div class="container-fluid">
+       <img alt="AtoZserver Logo" src="https://atozserver.com/wp-content/themes/atozserver/assets/images/main-logo.svg" style="max-width:168px"/>
+       <p class="text-white-50 pt-2">
+        ©2022 atozserver - All Rights Reserved.
+       </p>
+       <div class="d-flex flex-row">
+        <a class="btn-floating btn-sm btn-white" style="border-radius: 10px">
+         <i class="icon-md fab fa-facebook text-color-primary">
+         </i>
+        </a>
+        <a class="btn-floating btn-sm btn-white" style="border-radius: 10px">
+         <i class="icon-md fab fa-twitter text-color-primary">
+         </i>
+        </a>
+        <a class="btn-floating btn-sm btn-white" style="border-radius: 10px">
+         <i class="icon-md fab fa-instagram text-color-primary">
+         </i>
+        </a>
+        <a class="btn-floating btn-sm btn-white" style="border-radius: 10px">
+         <i class="icon-md fab fa-youtube text-color-primary">
+         </i>
+        </a>
        </div>
       </div>
      </div>
+     <!--/.Fourth column-->
     </div>
    </div>
-   <a class="footer-logo display-none" href="https://byteoverflow.com/" itemprop="url" rel="home">
-   </a>
-  </section>
-  <a class="btn back-to-top btn-dark btn-fixed-bottom" href="#">
-   <i class="fas fa-angle-up">
-   </i>
-  </a>
-  <script id="contact-form-7-js-extra" type="text/javascript">
-   /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"https:\/\/byteoverflow.com\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
-/* ]]> */
+   <!--/.Footer Links-->
+   <!-- Copyright-->
+   <div class="footer-copyright py-3 text-center">
+    atozserver.com © 2022
+   </div>
+   <!--/.Copyright -->
+  </footer>
+  <script id="bootstrap-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/js/bootstrap.min.js" type="text/javascript">
   </script>
-  <script id="contact-form-7-js" src="https://byteoverflow.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.3.2" type="text/javascript">
+  <script id="mdb-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/js/mdb.min.js" type="text/javascript">
   </script>
-  <script id="bootstrap-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/bootstrap.min.js?ver=3.3.5" type="text/javascript">
+  <script id="popper-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/lib/mdb/js/popper.min.js" type="text/javascript">
   </script>
-  <script id="owl-carousel-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/owl.carousel.min.js?ver=2.3.4" type="text/javascript">
+  <script id="umbrella-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/js/umbrella.min.js" type="text/javascript">
   </script>
-  <script id="placeholder-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/placeholder.js?ver=1.0" type="text/javascript">
+  <script id="custom-js-js" src="https://atozserver.com/wp-content/themes/atozserver/assets/js/script.js" type="text/javascript">
   </script>
-  <script id="jquery-magnific-popup-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/jquery.magnific-popup.min.js?ver=1.1.0" type="text/javascript">
+  <script>
+   function ready(fn) {
+  if (document.readyState != 'loading'){
+    fn();
+  } else {
+    document.addEventListener('DOMContentLoaded', fn);
+  }
+}
+ready(function(){
+    u(".custom-overlay").on("click", function(e){
+        e.preventDefault();
+        u("body").css("overflow", "")
+        u(".custom-overlay").css("background-color", "transparent");
+        u(".custom-sidebar").css("transform", "translateX(-300px)");
+        setTimeout(function(){
+            u(".custom-overlay").css("display", "none");
+        }, 200);
+    });
+    u(".custom-sidebar").on("click", function(event){
+        event.stopPropagation();
+    });
+    u(".custom-sidebar-trigger").handle("click", function(){
+        u("body").css("overflow", "hidden")
+        u(".custom-overlay").css("display", "block");
+        setTimeout(function(){
+            u(".custom-sidebar").css("transform", "translateX(0)");
+        }, 100);
+        setTimeout(function(){
+            u(".custom-overlay").css("background-color", "rgb(0, 0, 0, 0.4)");
+        }, 200);
+    });
+    function init_side_accs(){
+        u(".custom-accordion").each(function(node, i) {
+            u(node).handle("click", function(){
+                u(this).toggleClass("accordion-open");
+                var accBody = this.nextElementSibling;
+                if(u(accBody).css("max-height")){
+                    u(accBody).css("max-height", null);
+                }else{
+                    u(accBody).css("max-height", accBody.scrollHeight + "px");
+                }
+            })
+        });
+    };
+    init_side_accs();
+})
   </script>
-  <script id="jquery-fitvids-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/jquery.fitvids.js?ver=1.1" type="text/javascript">
+  <!-- Facebook Pixel Code -->
+  <script>
+   !function(f,b,e,v,n,t,s)
+{if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];
+s.parentNode.insertBefore(t,s)}(window, document,'script',
+'https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '364832031042524');
+fbq('track', 'PageView');
   </script>
-  <script id="masonry-pkgd-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/masonry.pkgd.js?ver=4.2.1" type="text/javascript">
-  </script>
-  <script id="imagesloaded-js" src="https://byteoverflow.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4" type="text/javascript">
-  </script>
-  <script id="infinite-scroll-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/infinite-scroll.js?ver=2.1.0" type="text/javascript">
-  </script>
-  <script id="background-srcset-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/background-srcset.js?ver=1.0" type="text/javascript">
-  </script>
-  <script id="paperio-custom-js-extra" type="text/javascript">
-   /* <![CDATA[ */
-var paperioajaxurl = {"ajaxurl":"https:\/\/byteoverflow.com\/wp-admin\/admin-ajax.php","theme_url":"https:\/\/byteoverflow.com\/wp-content\/themes\/paperio","loading_image":"https:\/\/byteoverflow.com\/wp-content\/themes\/paperio\/assets\/images\/spin.gif","paperio_previous_text":"Previous","paperio_next_text":"Next"};
-var paperio_infinite_scroll_message = {"message":"All Post Loaded"};
-var simpleLikes = {"ajaxurl":"https:\/\/byteoverflow.com\/wp-admin\/admin-ajax.php","like":"Like","unlike":"Unlike"};
-/* ]]> */
-  </script>
-  <script id="paperio-custom-js" src="https://byteoverflow.com/wp-content/themes/paperio/assets/js/custom.js?ver=1.0" type="text/javascript">
-  </script>
+  <noscript>
+   <img height="1" src="https://www.facebook.com/tr?id=364832031042524&amp;ev=PageView&amp;noscript=1" style="display:none" width="1"/>
+  </noscript>
+  <!-- End Facebook Pixel Code -->
  </body>
 </html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 5/33 objects using Disk
+Page Caching using Disk: Enhanced 
+Database Caching using Disk
+
+Served from: atozserver.com @ 2024-01-18 13:26:20 by W3 Total Cache
+-->
